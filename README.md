@@ -1,7 +1,7 @@
 # Dance Pad
 This is a repository that holds the code for all of the custom peripheral work I do with this dance pad I bought:
 
-<p align='center'>
+<p align='center' style='margin: 30px 0;'>
   <img src='https://i5.walmartimages.com/asr/da446c00-c5f3-43b1-be5d-5b38ec9a1429.b5421e4b1167bb2fcc0e60605cc25cdf.jpeg' width='250'>
 </p>
 
